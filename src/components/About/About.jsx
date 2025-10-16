@@ -42,15 +42,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            Hi, I am an enthusiastic Full Stack Developer and Cloud Engineering
-            fresher with a strong foundation in modern web technologies and
-            cloud platforms. Skilled in creating responsive and scalable
-            applications, I am proficient in both front-end and back-end
-            development, as well as deploying solutions on cloud services like
-            AWS and Azure. With a passion for learning and problem-solving, i am
-            eager to apply my technical knowledge to real-world projects,
-            contribute to innovative teams, and grow into a versatile IT
-            professional.
+            I’m a passionate DevOps Engineer and MERN Stack Developer dedicated to building scalable, efficient, and user-focused digital solutions. With expertise in DevOps tools like Jenkins, Docker, Kubernetes, Terraform, and AWS, I automate workflows and streamline deployment processes to ensure seamless CI/CD and high system reliability. On the development side, I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), crafting dynamic, responsive, and high-performing web applications. My goal is to integrate modern development practices with robust DevOps strategies to deliver end-to-end solutions that enhance performance, scalability, and user experience.
           </p>
           {/* Resume Button */}
           <a
