@@ -24,11 +24,12 @@ const About = () => {
             <span className="text-white">I am a </span>
             <ReactTypingEffect
               text={[
+                  "Cloud Engg.",
                 "MernStack Developer",
                 "Coder",
                 "Programmer",
                 "Full Stack Developer",
-                "Cloud Engg.",
+              
               ]}
               speed={100}
               eraseSpeed={50}
