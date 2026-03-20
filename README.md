@@ -1,12 +1,63 @@
-# React + Vite
+# Harsh's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Responsive design
+- Dynamic routing with React Router
+- Email functionality with EmailJS
+- Built with modern technologies
 
-Currently, two official plugins are available:
+## Tech Stack
+- **Frontend:** React, Vite, Tailwind CSS
+- **Routing:** React Router
+- **Email functionality:** EmailJS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Structure
+```
+Harsh-Portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── App.jsx
+├── package.json
+└── vite.config.js
+```
 
-## Expanding the ESLint configuration
+## Getting Started
+To get started with this project, follow the instructions below.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Harsh7209/Harsh-Portfolio.git
+   cd Harsh-Portfolio
+   ```
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+## Available Scripts
+- `npm start`: Starts the development server.
+- `npm run build`: Builds the app for production.
+
+## Configuration
+- Ensure to configure EmailJS with your email service credentials before use.
+
+## Deployment
+- The app can be deployed using platforms like Vercel, Netlify, or GitHub Pages.
+
+## Components
+- Reusable components located in `src/components`
+
+## Customization
+- Customize the Tailwind CSS configuration in `tailwind.config.js`.
+
+## Troubleshooting
+- Common issues and resolutions can be found in the documentation.
+
+## Contributing
+- Contributions are welcome! Please create a pull request to contribute.
+
+## License
+- This project is licensed under the MIT License.
