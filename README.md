@@ -53,9 +53,6 @@ To get started with this project, follow the instructions below.
 ## Customization
 - Customize the Tailwind CSS configuration in `tailwind.config.js`.
 
-## Troubleshooting
-- Common issues and resolutions can be found in the documentation.
-
 ## Contributing
 - Contributions are welcome! Please create a pull request to contribute.
 
